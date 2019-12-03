@@ -3526,3 +3526,1155 @@
   RuntimeWarning)
 /home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:22:57) while time zone support is active.
   RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:23:48) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:24:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:24:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:24:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:24:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:25:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:26:47) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:27:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:27:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:27:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:27:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:27:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:28:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:28:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:28:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:28:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:28:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:29:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:30:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:48) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:31:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:32:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:33:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:34:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:35:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:36:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:37:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:37:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:37:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:37:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:38:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:39:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:40:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:41:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:42:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:43:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:44:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:46:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:46:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:46:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:46:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:47:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:57) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:48:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:49:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:49:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:49:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:49:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:49:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:50:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:50:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:50:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:50:57) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:50:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:51:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:52:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:53:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:53:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:53:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:53:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:53:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:54:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:47) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:55:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:56:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:57:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:46) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:58:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:59:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:59:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:59:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:59:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 17:59:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:00:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:01:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:02:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:03:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:04:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:05:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:06:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:07:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:08:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:09:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:09:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:09:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:09:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:09:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:30) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:27) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:10:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:11:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:12:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:13:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:25) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:15:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:16:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:17:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:18:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:47) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:57) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:19:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:46) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:20:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:21:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:55) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:22:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:23:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:24:47) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:25:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:25:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:25:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:25:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:25:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:26:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:27:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:28:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:48) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:29:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:30:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:31:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:32:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:46) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:33:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:34:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:35:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:36:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:37:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:38:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:38:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:38:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:38:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:38:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:46) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:39:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:40:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:39) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:22) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:41:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:42:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:43:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:44:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:45:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:43) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:46:46) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:29) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:47:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:48:36) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:49:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:44) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:50:53) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:51:50) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:51:52) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:51:31) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:51:42) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:37) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:51) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:41) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:45) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:49) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:56) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:54) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:52:40) while time zone support is active.
+  RuntimeWarning)
+/home/ubuntu/.local/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1364: RuntimeWarning: DateTimeField Bus.TimeNav received a naive datetime (2019-12-03 18:54:42) while time zone support is active.
+  RuntimeWarning)
